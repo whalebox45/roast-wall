@@ -33,7 +33,7 @@ Thank you for considering contributing to Roast Wall! We appreciate your support
 
 ## Reporting Issues
 
-If you encounter any issues, please report them using the [issue tracker](https://github.com/your-username/roast-wall/issues).
+If you encounter any issues, please report them using the [issue tracker](https://github.com/whalebox45/roast-wall/issues).
 
 ## Getting Help
 
