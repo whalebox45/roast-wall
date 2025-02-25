@@ -8,6 +8,5 @@ import { createPinia } from 'pinia'
 const app = createApp(App);
 app.use(router)
 app.use(createPinia());  // 註冊 Pinia
-
 app.mount('#app')
 
