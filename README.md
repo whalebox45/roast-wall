@@ -11,20 +11,19 @@ Welcome to the Roast Wall project! This README will help you understand what thi
 - [License](#license)
 
 ## Introduction
-Roast Wall is a platform where users can post and share humorous roasts. It's a fun way to engage with friends and the community by sharing witty and clever remarks.
+Roast Wall is a platform where users can post humorous roasts. It's a fun way to engage with friends and the community by sharing witty and clever remarks.
 
 ## Features
-- Post and share roasts
-- Like and comment on roasts
-- User profiles
-- Search functionality
+- Post roasts
+- Like and dislike on roasts
+- New Features WIP
 
 ## Installation
 To get started with Roast Wall, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/roast-wall.git
+    git clone https://github.com/whalebox45/roast-wall.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -36,11 +35,11 @@ To get started with Roast Wall, follow these steps:
     ```
 
 ## Usage
-To start the development server, run:
+To start the test server, run:
 ```bash
-npm start
+npm run dev
 ```
-Open your browser and navigate to `http://localhost:3000` to see the application in action.
+Open your browser and navigate to `http://localhost:5173` to see the application in action.
 
 ## Contributing
 We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
